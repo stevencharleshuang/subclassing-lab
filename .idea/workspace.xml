@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e6aed0e-7a9a-484a-9b73-2f782b03f83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/Tests/AnimalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/Tests/MammalTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Mammal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Mammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subclassing-lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/subclassing-lab.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,10 +31,18 @@
   <component name="ProjectId" id="1RhfQiuFezUBae8nmpfSfbFU99K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/Tests" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in subclassing-lab">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="subclassing-lab" />
@@ -57,8 +67,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in subclassing-lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subclassing-lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in subclassing-lab" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -74,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570124233071</updated>
       <workItem from="1570124238150" duration="96000" />
-      <workItem from="1570124362122" duration="1488000" />
+      <workItem from="1570124362122" duration="3077000" />
     </task>
     <servers />
   </component>

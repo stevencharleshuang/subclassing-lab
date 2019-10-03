@@ -10,8 +10,8 @@ public class Main {
         System.out.println(gila.getName());
         System.out.println(gila.isVenomous());
 
-        Mammal rat = new Mammal(15, false, "Rat", true, "Squeak, Squeak");
-        Mammal cow = new Mammal(10, false, "Cow", false, "Moooooo");
+        Mammal rat = new Mammal(15, false, "Rat", true, "Squeak, Squeak", "brown");
+        Mammal cow = new Mammal(10, false, "Cow", false, "Moooooo", "black and white");
 
         System.out.println(rat.getName());
         System.out.println(rat.isCarnivore());
