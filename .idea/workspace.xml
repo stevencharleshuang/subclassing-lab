@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e6aed0e-7a9a-484a-9b73-2f782b03f83d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Tests/AnimalTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tests/Tests/MammalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/Tests/ReptileTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/subclassing-lab/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subclassing-lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/subclassing-lab.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570124233071</updated>
       <workItem from="1570124238150" duration="96000" />
-      <workItem from="1570124362122" duration="3077000" />
+      <workItem from="1570124362122" duration="3650000" />
     </task>
     <servers />
   </component>
